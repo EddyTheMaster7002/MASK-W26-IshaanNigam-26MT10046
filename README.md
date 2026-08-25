@@ -11,3 +11,5 @@ As for a description about myself, I am a curious person and whose hobbies keep 
 Working on the task was definitely fun and also at the time I applied for WebD team I was learning css (alongside js) as well so it was nice to have a kind of mini project to practice it.
 
 As for the tasks themselves, due to shortage of time I could only complete the first frontend task.
+
+Also I deployed this using netlify: eddythemaster.netlify.app
